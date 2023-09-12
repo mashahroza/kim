@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="UNLJh9vn4kO6VJ6k5PmaiJ_aRnn7Q0UghX0cacJHBPg">
+	<meta name="p:domain_verify" content="f73afda691c2ea78e1c389ee5be23637">
+	<meta name="p:domain_verify" content="765f94fe9a9e0311a30ee254d75bb59d">
+	<meta name="iua-site-verification" content="ad57912380bb367be5fda0a177b2324c">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	<!---->
+				<script>
+				//<![CDATA[
+				function addLink() {
+				var body_element = document.getElementsByTagName('body')[0];
+				var selection = window.getSelection();
+				var lang = "ru";
+				
+				// Вы можете изменить текст в этой строчке
+				var text = "Copyright";
+				if ( lang == "ru" ) {
+					text = "При копировании материалов, ссылка на сайт обязательна. Все права защищены.";
+				}
+				if ( lang == "uk" ) {
+					text = "При копіюванні матеріалів, посилання на сайт обов'язкове. Всі права захищені.";
+				}
+				var pagelink = "<p>" + text + " © " + document.location.href + "</p> ";
+				var copytext = selection + pagelink;
+				var newdiv = document.createElement('div');
+				newdiv.style.position = 'absolute';
+				newdiv.style.left = '-99999px';
+				body_element.appendChild(newdiv);
+				newdiv.innerHTML = copytext;
+				selection.selectAllChildren(newdiv);
+				window.setTimeout( function() {
+				body_element.removeChild(newdiv);
+				}, 0);
+				}
+				document.oncopy = addLink;
+				//]]>
+			</script>
+			
+    <meta name="robots" content="noindex, follow">
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Сторінка не знайдена - Beauty HUB</title>
+	<meta property="og:locale" content="ru_RU">
+	<meta property="og:title" content="Сторінка не знайдена - Beauty HUB">
+	<meta property="og:site_name" content="Beauty HUB">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://bhub.com.ua/#organization","name":"Beauty HUB","url":"https://bhub.com.ua/","sameAs":["https://www.facebook.com/bhub.com.ua","https://www.instagram.com/beauty_hub_ua/","https://www.youtube.com/channel/UCC0pBM0Ub-fgjVBLJp-SUjA","https://twitter.com/Beauty_hub_ua"],"logo":{"@type":"ImageObject","@id":"https://bhub.com.ua/#logo","inLanguage":"ru-RU","url":"https://bhub.com.ua/wp-content/uploads/2018/05/bhub_logo.webp","contentUrl":"https://bhub.com.ua/wp-content/uploads/2018/05/bhub_logo.webp","width":1024,"height":537,"caption":"Beauty HUB"},"image":{"@id":"https://bhub.com.ua/#logo"}},{"@type":"WebSite","@id":"https://bhub.com.ua/#website","url":"https://bhub.com.ua/","name":"Beauty HUB","description":"\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a\u0440\u0430\u0441\u043e\u0442\u044b \u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f","publisher":{"@id":"https://bhub.com.ua/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bhub.com.ua/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href="https://fonts.gstatic.com" crossorigin rel="preconnect">
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="es-widget-css-css" href="../css/es-widget_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="twenty20-style-css" href="../css/twenty20_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="../css/style.min.css" type="text/css" media="all">
+<style id="wpml-legacy-horizontal-list-0-inline-css" type="text/css">
+.wpml-ls-statics-shortcode_actions a {color:#3a4185;}
+</style>
+<link rel="stylesheet" id="wpml-menu-item-0-css" href="../css/style.min_1.css" type="text/css" media="all">
+<style id="wpml-menu-item-0-inline-css" type="text/css">
+.wpml-ls-slot-2, .wpml-ls-slot-2 a, .wpml-ls-slot-2 a:visited{background-color:#ffffff;color:#3a4185;}.wpml-ls-slot-2:hover, .wpml-ls-slot-2:hover a, .wpml-ls-slot-2 a:hover{color:#ffffff;background-color:#ffffff;}.wpml-ls-slot-2.wpml-ls-current-language, .wpml-ls-slot-2.wpml-ls-current-language a, .wpml-ls-slot-2.wpml-ls-current-language a:visited{color:#ffffff;background-color:#ffffff;}.wpml-ls-slot-2.wpml-ls-current-language:hover, .wpml-ls-slot-2.wpml-ls-current-language:hover a, .wpml-ls-slot-2.wpml-ls-current-language a:hover{color:#ffffff;background-color:#ffffff;}
+.wpml-ls-slot-1495, .wpml-ls-slot-1495 a, .wpml-ls-slot-1495 a:visited{color:#3a4185;}
+.wpml-ls-slot-409, .wpml-ls-slot-409 a, .wpml-ls-slot-409 a:visited{color:#3a4185;}
+</style>
+<link rel="stylesheet" id="bootstrap-css" href="../css/bootstrap.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="bhunew-style-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="animate-style-css" href="../css/animate_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-style-css" href="../css/magnific-popup_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="bhunew-fontawesome-all-min-css" href="../css/all.min_1.css" type="text/css" media="all">
+<style id="rocket-lazyload-inline-css" type="text/css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(../images/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type="text/javascript" src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="../js/jquery.cookie.js" id="jquery.cookie-js"></script>
+<script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ru","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ru","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/language-cookie.js" id="wpml-cookie-js"></script>
+<link rel="https://api.w.org/" href="https://bhub.com.ua/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bhub.com.ua/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bhub.com.ua/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WPML ver:4.4.12 stt:45,54;">
+<link rel="icon" href="../images/cropped-favicon-1-32x32.webp" sizes="32x32">
+<link rel="icon" href="../images/cropped-favicon-1-192x192.webp" sizes="192x192">
+<link rel="apple-touch-icon" href="../images/cropped-favicon-1-180x180.webp">
+<meta name="msapplication-TileImage" content="https://bhub.com.ua/wp-content/uploads/2020/11/cropped-favicon-1-270x270.webp">
+		<style type="text/css" id="wp-custom-css">
+			.single-entry .entry-content p strong, .single-entry .entry-content p b, .single-entry .entry-content p strong *, .single-entry .entry-content p b * {
+	font-weight: 700 !important;
+}
+.single-entry .entry-content * {
+	font-family: Lato !important;
+}
+.single-entry .entry-content p {
+	font-size: 18px !important;
+	font-weight: 400 !important;
+	margin-bottom: 15px !important;
+}
+.single-entry .entry-content p * {
+/* 	font-size: 18px !important;
+	font-weight: 300 !important; */
+}
+.single-entry #readalso_wr * {
+	font-family: 'Cormorant Garamond' !important;
+}
+div#social-sharing-container span {
+/* 	display: inline-block; */
+  width: calc(33% - 10px);
+  border-radius: 0;
+  height: 30px;
+/*   margin: 0 0 0 15px; */
+/*   padding: 0; */
+  /* text-align: center; */
+  /* align-content: center; */
+  background-position: 50% 50%;
+/* 	vertical-align: middle; */
+	color: transparent!important;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	
+		<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+<!--	<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" rel="stylesheet">-->
+<!--	<link href="https://fonts.googleapis.com/css?family=Lato:500i&display=swap" rel="stylesheet">-->
+	<meta name="pmail-verification" content="6e8374a7fd22beac7e7699f5cdb81295">
+   
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66662760-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'UA-66662760-1');
+    </script>
+
+		<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+		<script>
+		  var googletag = googletag || {};
+		  googletag.cmd = googletag.cmd || [];
+		</script> -->
+
+<!-- Google Tag Manager -->
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HPLFST');</script> -->
+<!-- End Google Tag Manager -->
+
+    <style>
+        .collapse {
+            display: none;
+        }
+    </style>
+	<script charset="UTF-8" src="../js/d2c96dbd43dbf904ca0c9cd2ba0c7c9e_1.js" async></script>
+	<!-- Facebook Pixel Code -->
+	<!-- <script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '630826197743902');
+	  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=630826197743902&ev=PageView&noscript=1"/></noscript> -->
+	<!-- End Facebook Pixel Code -->
+
+	<!-- Rating Mail.ru counter -->
+<!-- <script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3208674", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3208674;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript> -->
+<!-- //Rating Mail.ru counter -->
+
+	<!-- Yandex.Metrika counter -->
+	<!-- <script type="text/javascript" >
+	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+	   ym(67142527, "init", {
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true,
+			trackHash:true
+	   });
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/67142527" style="position:absolute; left:-9999px;" alt="" /></div></noscript> -->
+	<!-- /Yandex.Metrika counter -->
+</head>
+
+<body class="error404">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HPLFST" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<!-- START BRANDING -->
+	 
+	<style>#wr{position:absolute;top:0;bottom:0;left:0;right:0;z-index:1;cursor: pointer;background: url(https://bhub.com.uaerror); position: fixed; display: block; background-size: cover; background-position: center;}
+	.page-template-default #wr{z-index:-1;}</style>
+	<!-- END BRANDING -->
+	
+	<div id="fixed_top">
+					<div id="fullwidth_wr" class="mobile_menu hidden-md hidden-lg hidden-sm"><!-- class="visible-xs hidden-md hidden-lg hidden-sm" -->
+				<nav id="nav" class="navbar navbar-mobilemenu" role="navigation">			
+					<div class="navbar-header">
+						<button type="button" class="button navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<img src="../images/ico_burger.png" alt>
+						</button>
+					</div>
+					<div class="navbar-collapse navbar-ex1-collapse collapse" style="height: 1px">
+						<div class="menu-header"><ul id="menu-mobile-menu" class="menu nav navbar-nav"><li id="menu-item-wpml-ls-409-ru" class="menu-item wpml-ls-slot-409 wpml-ls-item wpml-ls-item-ru wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-409-ru"><a title="RU" href="https://bhub.com.ua"><span class="wpml-ls-native" lang="ru">RU</span></a></li>
+<li id="menu-item-wpml-ls-409-uk" class="menu-item wpml-ls-slot-409 wpml-ls-item wpml-ls-item-uk wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-409-uk"><a title="UA" href="https://bhub.com.ua/uk/"><span class="wpml-ls-native" lang="uk">UA</span></a></li>
+<li id="menu-item-13783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13783"><a href="https://bhub.com.ua/category/krasota/">Красота <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38567"><a href="https://bhub.com.ua/category/krasota/litso/">Лицо</a></li>
+	<li id="menu-item-38571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38571"><a href="https://bhub.com.ua/category/krasota/telo/">Тело</a></li>
+	<li id="menu-item-38566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38566"><a href="https://bhub.com.ua/category/krasota/volosy/">Волосы</a></li>
+	<li id="menu-item-38568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38568"><a href="https://bhub.com.ua/category/krasota/makiyazh/">Макияж</a></li>
+	<li id="menu-item-38569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38569"><a href="https://bhub.com.ua/category/krasota/nogtevaya-estetika/">Ногтевая эстетика</a></li>
+	<li id="menu-item-38570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38570"><a href="https://bhub.com.ua/category/krasota/parfyumeriya/">Парфюмерия</a></li>
+</ul>
+</li>
+<li id="menu-item-13784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13784"><a href="https://bhub.com.ua/category/zdorove/">Здоровье <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38574"><a href="https://bhub.com.ua/category/zdorove/zdorovoe-pitanie/">Питание</a></li>
+	<li id="menu-item-38577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38577"><a href="https://bhub.com.ua/category/zdorove/sport/">Спорт</a></li>
+	<li id="menu-item-38575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38575"><a href="https://bhub.com.ua/category/zdorove/psihologiya/">Психология</a></li>
+	<li id="menu-item-38576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38576"><a href="https://bhub.com.ua/category/zdorove/seks/">Секс</a></li>
+	<li id="menu-item-60214" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60214"><a href="https://bhub.com.ua/category/zdorove/stomatologiya/">Стоматология</a></li>
+</ul>
+</li>
+<li id="menu-item-13785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-13785"><a href="https://bhub.com.ua/category/stil-zhizni/">Стиль жизни <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38582"><a href="https://bhub.com.ua/category/stil-zhizni/kultura/">Культура</a></li>
+	<li id="menu-item-98840" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98840"><a href="https://bhub.com.ua/category/stil-zhizni/goroskop/">Гороскоп 2023</a></li>
+	<li id="menu-item-38583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38583"><a href="https://bhub.com.ua/category/stil-zhizni/puteshestvie/">Путешествие</a></li>
+	<li id="menu-item-118736" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118736"><a href="https://bhub.com.ua/category/stil-zhizni/stil/">Стиль</a></li>
+</ul>
+</li>
+<li id="menu-item-98877" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98877"><a href="https://bhub.com.ua/category/stil-zhizni/znamenitosti/">Знаменитости</a></li>
+<li id="menu-item-28004" class="menu_spec menu-item menu-item-type-custom menu-item-object-custom menu-item-28004"><a target="_blank" rel="noopener" href="https://bhub.com.ua/uk/stresooborona">Стрессо <span class="menu_pro">оборона</span></a></li>
+<li id="menu-item-158055" class="menu_mob_sec menu-item menu-item-type-custom menu-item-object-custom menu-item-158055"><a target="_blank" rel="noopener" href="https://pro.bhub.com.ua/">PRO BHUB</a></li>
+<li id="menu-item-58770" class="menu_mob_sec menu-item menu-item-type-custom menu-item-object-custom menu-item-58770"><a target="_blank" rel="noopener" href="https://afisha.bhub.com.ua/">Афиша</a></li>
+<li id="menu-item-58771" class="menu_mob_sec menu-item menu-item-type-custom menu-item-object-custom menu-item-58771"><a target="_blank" rel="noopener" href="https://booking.bhub.com.ua/">Букинг</a></li>
+<li id="menu-item-151763" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-151763"><a target="_blank" rel="noopener" href="https://pin.it/5zub1Yw"><i class="fab fa-pinterest"></i></a></li>
+<li id="menu-item-117783" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-117783"><a target="_blank" rel="noopener" href="https://invite.viber.com/?g2=AQBs1tH9gr5g1009KgWmaOEWBqxLbUZjq8BnR0ZAaR%2BGsastT2rcX4wAqc28zFjL%22&#038;lang=ru"><i class="fab fa-viber"></i></a></li>
+<li id="menu-item-35952" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-35952"><a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCC0pBM0Ub-fgjVBLJp-SUjA?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
+<li id="menu-item-13787" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-13787"><a target="_blank" rel="noopener" href="https://t.me/joinchat/AAAAAE1ITKg_nhYnG9ebXg"><i class="fab fa-telegram-plane"></i></a></li>
+<li id="menu-item-13788" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-13788"><a target="_blank" rel="noopener" href="https://www.instagram.com/beauty_hub_ua/"><i class="fab fa-instagram"></i></a></li>
+<li id="menu-item-13789" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-13789"><a target="_blank" rel="noopener" href="https://www.facebook.com/bhub.com.ua"><i class="fab fa-facebook-f"></i></a></li>
+<li id="menu-item-13790" class="menu_subscr menu-item menu-item-type-custom menu-item-object-custom menu-item-13790"><a href="#subscribe_wr">Подписаться на рассылку</a></li>
+<li id="menu-item-13791" class="menu_mob_sec menu-item menu-item-type-post_type menu-item-object-page menu-item-13791"><a href="https://bhub.com.ua/about/">О проекте</a></li>
+<li id="menu-item-13792" class="menu_mob_sec menu-item menu-item-type-post_type menu-item-object-page menu-item-13792"><a href="https://bhub.com.ua/contacts/">Контакты</a></li>
+<li id="menu-item-13793" class="menu_mob_sec menu-item menu-item-type-post_type menu-item-object-page menu-item-13793"><a href="https://bhub.com.ua/rules/">Политика использования персональных данных</a></li>
+<li id="menu-item-13794" class="menu_mob_sec menu-item menu-item-type-post_type menu-item-object-page menu-item-13794"><a href="https://bhub.com.ua/commentingrules/">Правила комментирования</a></li>
+<li id="menu-item-13795" class="menu_mob_sec menu-item menu-item-type-post_type menu-item-object-page menu-item-13795"><a href="https://bhub.com.ua/copyrules/">Условия копирования</a></li>
+</ul></div>					</div><!-- /.navbar-collapse -->
+				</nav>
+				<a href="/" class="site_logo"> <img src="logo.svg" alt></a>
+					
+				<form method="get" class="mobile-search-form" action>
+					<input class="text" type="text" value name="s" id="s">
+					<input type="submit" class="my-wp-search" id="searchsubmit" value="Поиск">
+				</form>
+				<a class="fix_search" href="/?s="><img src="../images/ico_search.png"></a>
+			</div>
+		
+			<div id="fullwidth_wr" class="blue_bg hidden-xs">
+				<div class="container blue_bg">
+					<nav id="nav" class="navbar navbar-secondary" role="navigation">
+					
+							<div class="menu-header-sec"><ul id="menu-pre-menu" class="menu nav navbar-nav"><li id="menu-item-57932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57932"><a href="https://bhub.com.ua/contacts/">КОНТАКТЫ</a></li>
+<li id="menu-item-57933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57933"><a href="https://bhub.com.ua/about/">О НАС</a></li>
+<li id="menu-item-158765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158765"><a target="_blank" rel="noopener" href="https://account.bhub.com.ua/">ACCOUNT</a></li>
+<li id="menu-item-12332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12332"><a target="_blank" rel="noopener" href="https://booking.estet.com.ua/">BOOKING</a></li>
+<li id="menu-item-12333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12333"><a target="_blank" rel="noopener" href="https://afisha.bhub.com.ua/">AFISHA</a></li>
+<li id="menu-item-27741" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27741"><a target="_blank" rel="noopener" href="https://pro.bhub.com.ua/">PRO BHUB</a></li>
+</ul></div>					
+					
+					</nav>
+				</div><!-- /.container -->
+			</div><!-- /fullwidth -->	
+
+			<div id="fullwidth_wr" class="hidden-xs top_menu_wr">
+				<div class="container">
+					<div id="block_wr">
+						<a href="/" class="site_logo"> <img src="logo.svg" alt></a>
+						<nav id="nav" class="navbar navbar-default" role="navigation">
+							<div class="menu-header"><ul id="menu-glavnoe-menyu" class="menu nav navbar-nav"><li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7"><a href="https://bhub.com.ua/category/krasota/">Красота <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38479"><a href="https://bhub.com.ua/category/krasota/litso/">Лицо</a></li>
+	<li id="menu-item-38484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38484"><a href="https://bhub.com.ua/category/krasota/telo/">Тело</a></li>
+	<li id="menu-item-38480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38480"><a href="https://bhub.com.ua/category/krasota/volosy/">Волосы</a></li>
+	<li id="menu-item-38481" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38481"><a href="https://bhub.com.ua/category/krasota/makiyazh/">Макияж</a></li>
+	<li id="menu-item-38482" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38482"><a href="https://bhub.com.ua/category/krasota/nogtevaya-estetika/">Ногтевая эстетика</a></li>
+	<li id="menu-item-38483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38483"><a href="https://bhub.com.ua/category/krasota/parfyumeriya/">Парфюмерия</a></li>
+</ul>
+</li>
+<li id="menu-item-5" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5"><a href="https://bhub.com.ua/category/zdorove/">Здоровье <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38485"><a href="https://bhub.com.ua/category/zdorove/zdorovoe-pitanie/">Питание</a></li>
+	<li id="menu-item-38488" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38488"><a href="https://bhub.com.ua/category/zdorove/sport/">Спорт</a></li>
+	<li id="menu-item-38486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38486"><a href="https://bhub.com.ua/category/zdorove/psihologiya/">Психология</a></li>
+	<li id="menu-item-38487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38487"><a href="https://bhub.com.ua/category/zdorove/seks/">Секс</a></li>
+	<li id="menu-item-60213" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60213"><a href="https://bhub.com.ua/category/zdorove/stomatologiya/">Стоматология</a></li>
+</ul>
+</li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8"><a href="https://bhub.com.ua/category/stil-zhizni/">Стиль жизни <b class="caret"></b></a>
+<span class="submenu-arrow"></span><ul class="dropdown-menu list-unstyled">
+	<li id="menu-item-38491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38491"><a href="https://bhub.com.ua/category/stil-zhizni/kultura/">Культура</a></li>
+	<li id="menu-item-98839" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98839"><a href="https://bhub.com.ua/category/stil-zhizni/goroskop/">Гороскоп 2023</a></li>
+	<li id="menu-item-38492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38492"><a href="https://bhub.com.ua/category/stil-zhizni/puteshestvie/">Путешествие</a></li>
+	<li id="menu-item-118732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-118732"><a href="https://bhub.com.ua/category/stil-zhizni/stil/">Стиль</a></li>
+</ul>
+</li>
+<li id="menu-item-98876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98876"><a href="https://bhub.com.ua/category/stil-zhizni/znamenitosti/">Знаменитости</a></li>
+<li id="menu-item-27739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27739"><a target="_blank" rel="noopener" href="https://bhub.com.ua/uk/stresooborona">Стрессо<span class="menu_pro">оборона</span></a></li>
+<li id="menu-item-117744" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-117744"><a target="_blank" rel="noopener" href="https://invite.viber.com/?g2=AQBs1tH9gr5g1009KgWmaOEWBqxLbUZjq8BnR0ZAaR%2BGsastT2rcX4wAqc28zFjL%22&#038;lang=ru"><i class="fab fa-viber"></i></a></li>
+<li id="menu-item-35951" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-35951"><a target="_blank" rel="noopener" href="https://www.youtube.com/channel/UCC0pBM0Ub-fgjVBLJp-SUjA?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
+<li id="menu-item-13526" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-13526"><a target="_blank" rel="noopener" href="https://t.me/joinchat/AAAAAE1ITKg_nhYnG9ebXg"><i class="fab fa-telegram-plane"></i></a></li>
+<li id="menu-item-13525" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-13525"><a target="_blank" rel="noopener" href="https://www.instagram.com/beauty_hub_ua/"><i class="fab fa-instagram"></i></a></li>
+<li id="menu-item-151746" class="menu_soc menu-item menu-item-type-custom menu-item-object-custom menu-item-151746"><a target="_blank" rel="noopener" href="https://www.facebook.com/bhub.com.ua"><i class="fab fa-facebook-f"></i></a></li>
+<li id="menu-item-wpml-ls-2-ru" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-ru wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-ru"><a title="RU" href="https://bhub.com.ua"><span class="wpml-ls-native" lang="ru">RU</span></a></li>
+<li id="menu-item-wpml-ls-2-uk" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-uk wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-uk"><a title="UA" href="https://bhub.com.ua/uk/"><span class="wpml-ls-native" lang="uk">UA</span></a></li>
+<li class="menu-item menu-item-search"><a class="fix_search" href="/?s="><img src="../images/ico_search.png"></a></li></ul></div>					
+						</nav>
+					</div>
+				</div><!-- /.container -->
+			</div><!-- /fullwidth -->	
+			</div><!-- /fixed_top -->	
+	<div class="container content-area ">
+		
+		<div class="row content_wr">
+
+<div id="primary" class="col-sm-9 test2">
+	<div id="content" class="site-content" role="main">
+		<header class="page-header">
+			<h1 class="page-title">Ничего не найдено</h1>
+		</header>
+		<div class="page-wrapper">
+			<div class="page-content">
+				<h2>По вашему запросу страницы не существует</h2>
+				<p>Попробуйте поискать на сайте с помощью формы ниже</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="https://bhub.com.ua/">
+				<div>
+					<label class="screen-reader-text" for="s">Найти:</label>
+					<input type="text" value name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Поиск">
+				</div>
+			</form>			</div><!-- .page-content -->
+		</div><!-- .page-wrapper -->
+	</div><!-- #content -->
+</div><!-- #primary -->
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			<footer class="colophon">
+				<div class="container">
+					<div class="row fd_wd">
+									<aside class="fatfooter" role="complementary">
+				<div class="col-lg-4 col-sm-4 col-xs-12">
+					<div id="nav_menu-4" class="widget-container widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://bhub.com.ua/about/">О проекте</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://bhub.com.ua/contacts/">Контакты</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://bhub.com.ua/rules/">Политика использования персональных данных</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://bhub.com.ua/commentingrules/">Правила комментирования</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://bhub.com.ua/copyrules/">Условия копирования</a></li>
+</ul></div></div>
+				</div>
+			 
+				<div class="col-lg-4 col-sm-4 col-xs-12">
+					<div id="custom_html-3" class="widget_text widget-container widget_custom_html"><h4 class="widget-title"><span>Мы в соцсетях</span></h4><div class="textwidget custom-html-widget"><ul class="footer_social">
+<li>
+	<a href="https://www.facebook.com/bhub.com.ua" target="_blank" rel="nofollow noopener">
+		<i class="fab fa-facebook-f"></i>
+	</a>
+</li>
+<li>
+	<a href="https://bit.ly/3fruwhw" target="_blank" rel="nofollow noopener">
+		<i class="fab fa-telegram-plane"></i>
+	</a>
+</li>
+<!--li>
+	<a href="https://vk.com/beauty_hub" target="_blank" rel="nofollow noopener">
+        <i class="fab fa-vk"></i>
+	</a>
+</li-->
+<li>
+	<a href="https://www.youtube.com/channel/UCC0pBM0Ub-fgjVBLJp-SUjA" target="_blank" rel="nofollow noopener">
+		<i class="fab fa-youtube"></i>
+	</a>
+</li>
+<li>
+	<a href="https://www.instagram.com/beauty_hub_ua/" target="_blank" rel="nofollow noopener">
+		<i class="fab fa-instagram"></i>
+	</a>
+</li>
+<li>
+	<a href="https://invite.viber.com/?g2=AQBs1tH9gr5g1009KgWmaOEWBqxLbUZjq8BnR0ZAaR%2BGsastT2rcX4wAqc28zFjL%22&lang=ru" target="_blank" rel="nofollow noopener">
+		<i class="fab fa-viber"></i>
+	</a>
+</li>
+<!--li>
+    <a href="https://twitter.com/Beauty_hub_ua" target="_blank" rel="nofollow noopener">
+        <i class="fab fa-twitter"></i>
+    </a>
+</li-->
+</ul></div></div>				</div>
+			 
+				<div class="col-lg-4 col-sm-4 col-xs-12">
+					<div id="text-4" class="widget-container widget_text"><h4 class="widget-title"><span>Поделиться</span></h4>			<div class="textwidget">
+		<div id="social-sharing-container">
+			<a class="social-sharing-icon social-sharing-icon-facebook" href="https://www.facebook.com/share.php?u=&title="><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+			<a class="social-sharing-icon social-sharing-icon-telegram" href="https://telegram.me/share/url?url=+"><i class="fab fa-telegram-plane" aria-hidden="true"></i></a><a class="social-sharing-icon social-sharing-icon-pinterest" href="https://www.pinterest.com/pin/create/button/?url=&description="><i class="fab fa-pinterest-p" aria-hidden="true"></i></a>
+		</div>
+</div>
+		</div>				</div>
+			 
+			</aside>
+
+			</div>
+					</div><!-- /.row -->
+				<!-- /.container -->
+			</footer>
+		<div class="policy-cookies" style="display:none;">
+			<div class="cookies_wr">
+				<span class="cookies_hd">Данный сайт использует cookies</span>
+				<p>Во время пребывания на этом сайте, куки и другие технологии собирают данные, чтобы улучшить ваш опыт и персонализировать контент и рекламу, которые вы видите. Оставаясь на этом сайте, вы даете согласие на работу с этими файлами.</p>
+				<div id="aggry-cookies" class="btn-aggry">Я принимаю условия</div>
+			</div>
+		</div>
+		
+		<!-- <div id="text-popup-load-window-disable" class="zoom-anim-dialog swing animated white-popup mfp-hide">
+			<p><a href="https://t.me/joinchat/AAAAAE1ITKg_nhYnG9ebXg" target="_blank"><img src="/wp-content/themes/bhubnew/images/subscribe_telegram_ru.jpg" /></a></p>
+			<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+		</div> -->
+			<div id="subscribe_send" class="modal" tabindex="-1" role="dialog">
+	  <div class="modal-dialog" role="document">
+		<div class="modal-content">
+		  <div class="modal-header">
+			<h4 class="cat_title">Поздравляем</h4>
+		  </div>
+		  <div class="modal-body">      		
+			<p id="subscribe_send_content"></p>
+			<center><div class="btn-aggry" id="subcribe-aggry">Продолжить просмотр</div></center>
+		  </div>
+		</div>
+	  </div>
+	</div>
+	<script type="text/javascript" id="es-widget-page-js-extra">
+/* <![CDATA[ */
+var es_widget_page_notices = {"es_email_notice":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 email","es_success_message":"\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043d\u044b.","es_success_notice":"\u0422\u0435\u043f\u0435\u0440\u044c \u0412\u044b \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u043d\u044b \u043d\u0430 \u0441\u0432\u0435\u0436\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438\u0437 \u043c\u0438\u0440\u0430 \u0431\u044c\u044e\u0442\u0438-\u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0438. \u0421\u043f\u0430\u0441\u0438\u0431\u043e, \u0447\u0442\u043e \u0432\u044b \u0441 \u043d\u0430\u043c\u0438!","es_email_exists":"Email \u0443\u0436\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442!","es_error":"\u041e\u0439... \u0412\u043e\u0437\u043d\u0438\u043a\u043b\u0430 \u043d\u0435\u043f\u0440\u0435\u0434\u0432\u0438\u0434\u0435\u043d\u043d\u0430\u044f \u043e\u0448\u0438\u0431\u043a\u0430.","es_invalid_email":"\u041d\u0435\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 email ","es_try_later":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u043e\u0437\u0436\u0435","es_ajax_url":"https:\/\/bhub.com.ua\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/es-widget-page.js" id="es-widget-page-js"></script>
+<script type="text/javascript" src="../js/jquery.twenty20.js" id="twenty20-style-js"></script>
+<script type="text/javascript" src="../js/jquery.event.move.js" id="twenty20-eventmove-style-js"></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/bhub.com.ua","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script type="text/javascript" src="../js/bootstrap.min.js" id="bootstrap-js"></script>
+<script type="text/javascript" src="../js/jquery.cookie.min.js" id="jquery-cookie-js"></script>
+<script type="text/javascript" src="../js/policy-cookies.js" id="policy-cookies-js"></script>
+<script type="text/javascript" src="../js/custom.js" id="custom-js"></script>
+<script type="text/javascript" id="dj_post_more-js-extra">
+/* <![CDATA[ */
+var djdmore = {"url":"https:\/\/bhub.com.ua\/wp-admin\/admin-ajax.php","id":"161236","is_home":"","is_single":"","cat":null};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/load-more.js" id="dj_post_more-js"></script>
+<script>
+( function () {
+                var loadedTLAnalytics = false,                    
+                    timerId;
+if ( navigator.userAgent.indexOf( 'YandexMetrika' ) > -1 ) {
+                    loadTLAnalytics();
+                } else {
+                window.addEventListener( 'scroll', loadTLAnalytics, {passive: true} );
+                window.addEventListener( 'touchstart', loadTLAnalytics, {passive: true} );
+                document.addEventListener( 'mouseenter', loadTLAnalytics, {passive: true} );
+                document.addEventListener( 'click', loadTLAnalytics, {passive: true} );
+                document.addEventListener( 'DOMContentLoaded', loadFallback, {passive: true} );
+		}
+
+                function loadFallback() {
+                    timerId = setTimeout( loadTLAnalytics, 5000 );
+                }
+
+                function loadTLAnalytics( e ) {
+
+                    if ( e && e.type ) {
+                        console.log( e.type );
+                    } else {
+                        console.log( 'DOMContentLoaded' );
+                    }
+
+                    if ( loadedTLAnalytics ) {
+                        return;
+                    }
+
+                    setTimeout(
+                        function () {
+				
+var analyticsId = "GTM-5HPLFST";
+var a = document.createElement("script");
+function e() {
+    dataLayer.push(arguments);
+}
+(a.src = "https://www.googletagmanager.com/gtag/js?id=" + analyticsId),
+(a.async = !0),
+document.getElementsByTagName("head")[0].appendChild(a),
+    (window.dataLayer = window.dataLayer || []),
+    e("js", new Date()),
+    e("config", analyticsId),
+    console.log("gtag start");
+				
+				
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '630826197743902');
+fbq('track', 'PageView');
+console.log("fbpixel start");
+		
+						
+var metricaId = "67142527";
+                            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+                            ym( metricaId, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, triggerEvent:true });
+console.log("ym start");		
+		},
+                        100
+                    );
+
+                    loadedTLAnalytics = true;
+                    clearTimeout( timerId );
+                    window.removeEventListener( 'scroll', loadTLAnalytics, {passive: true}  );
+                    window.removeEventListener( 'touchstart', loadTLAnalytics, {passive: true}  );
+                    document.removeEventListener( 'mouseenter', loadTLAnalytics );
+                    document.removeEventListener( 'click', loadTLAnalytics );
+                    document.removeEventListener( 'DOMContentLoaded', loadFallback );
+                }
+            } )()
+</script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="../js/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+        		
+	<!-- pinterest button script -->
+	<script type="text/javascript">
+		(function() {
+			window.PinIt = window.PinIt || { loaded:false };
+			if (window.PinIt.loaded) return;
+			window.PinIt.loaded = true;
+			function async_load(){
+				var s = document.createElement("script");
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://assets.pinterest.com/js/pinit.js";
+				var x = document.getElementsByTagName("script")[0];
+				x.parentNode.insertBefore(s, x);
+			}
+			if (window.attachEvent)
+				window.attachEvent("onload", async_load);
+			else
+				window.addEventListener("load", async_load, false);
+		})();
+	</script>
+			
+	<!-- fancybox -->
+	<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			// $("#cert_wr a[href$='.jpg'],#cert_wr a[href$='.png'],#cert_wr a[href$='.gif']").attr('data-fancybox', 'cert_gallery'); // add data-fancybox to specific images in div to make popup gallery for those images
+			$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").fancybox(); // add data-fancybox to all images
+		
+			$("[data-fancybox]").fancybox({
+				loop     : true,
+				thumbs : {
+					autoStart : true,
+					axis      : 'x'
+				 }
+			});			
+		});	
+	
+	</script>
+
+	<!-- owlslider -->
+	<script src="../js/owl.carousel.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".home .videopost, .page-id-13599 .videopost").owlCarousel({
+				autoPlay: 5000,
+				items : 5,
+				itemsDesktop : [1199,4],
+				itemsDesktopSmall : [979,3],
+				itemsTablet : [768, 2],
+				itemsMobile : [540, 1],
+				navRewind : false,
+				rewindNav : true,
+				loop: true,
+				navigation : true
+			});
+			
+			$("#spec_wr #recent_news").owlCarousel({
+				autoPlay: 5000,
+				items : 1,
+				itemsDesktop : [1199,1],
+				itemsDesktopSmall : [979,1],
+				itemsTablet : [768, 1],
+				itemsMobile : [540, 1],
+				navigation : true
+			});
+			
+			$("#user_wr #user_news").owlCarousel({
+				autoPlay: 5000,
+				items : 4,
+				itemsDesktop : [1199,4],
+				itemsDesktopSmall : [979,3],
+				itemsTablet : [768, 2],
+				itemsMobile : [540, 1],
+				navigation : true,
+				loop: true
+			});
+			
+			$("#related_wr #recent_news").owlCarousel({
+				autoPlay: 5000000,
+				items : 4,
+				itemsDesktop : [1199,4],
+				itemsDesktopSmall : [979,3],
+				itemsTablet : [768, 2],
+				itemsMobile : [540, 1],
+				navigation : true
+			});
+			
+			jQuery('ul#menu-glavnoe-menyu > li').hover(function() {
+				jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).css('display','flex');
+			}, function() {
+				jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).css('display','none');
+			})
+			
+			jQuery('ul#menu-glavnoe-menyu-ukr > li').hover(function() {
+				jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).css('display','flex');
+			}, function() {
+				jQuery(this).find('.dropdown-menu').stop(true, true).delay(200).css('display','none');
+			})
+		});
+	</script>
+	
+	<!--magnific-popup-->	  
+	<!-- <script  src="/wp-content/themes/bhubnew/js/jquery.magnific-popup.min.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+		  var cookieOptions = { expires: 4, path: '/' }; // храним куки 4 дня
+		  if ($.cookie('visit') == undefined) {
+			setTimeout(function() {
+			$.cookie('visit', true, cookieOptions);
+			$.magnificPopup.open({
+			items: {
+			src: $('#text-popup-load-window'), // может быть HTML строкой, jQuery объектом, или CSS селектором 
+			},
+			type: 'inline',
+			removalDelay: 300
+			});
+		  }, 10000);
+		 }
+		 }); // end ready
+	</script> -->
+	
+	<!--sticky block home-->	  
+	<script src="../js/stickyblock.js"></script>	
+	
+	<!--scroll to top-->	  
+	
+	<span id="scroll-top" style="display:none;"></span>
+	<script src="../js/scroll-to-top.js"></script>
+
+	</body>
+</html>
